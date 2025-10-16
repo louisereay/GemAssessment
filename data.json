@@ -1,1 +1,142 @@
-[{"image":1,"lab":1,"remaining_time":"23d 18h 26m 26s","rush_cost":2859,"estimated_initial_duration":"30d","remaining_hours":570.44,"cost_per_remaining_hour":5.01},{"image":2,"lab":2,"remaining_time":"4d 6h 7m 42s","rush_cost":617,"estimated_initial_duration":"7d","remaining_hours":102.13,"cost_per_remaining_hour":6.04},{"image":2,"lab":3,"remaining_time":"1d 18h 38m 25s","rush_cost":271,"estimated_initial_duration":"3d","remaining_hours":42.64,"cost_per_remaining_hour":6.35},{"image":2,"lab":4,"remaining_time":"5d 8h 42m 58s","rush_cost":772,"estimated_initial_duration":"7d","remaining_hours":128.72,"cost_per_remaining_hour":6.00},{"image":2,"lab":5,"remaining_time":"6d 13h 25m 6s","rush_cost":938,"estimated_initial_duration":"8d","remaining_hours":157.42,"cost_per_remaining_hour":5.96},{"image":3,"lab":1,"remaining_time":"7d 0h 12m 24s","rush_cost":1001,"estimated_initial_duration":"9d","remaining_hours":168.21,"cost_per_remaining_hour":5.95},{"image":3,"lab":2,"remaining_time":"13h 38m 43s","rush_cost":93,"estimated_initial_duration":"1d","remaining_hours":13.64,"cost_per_remaining_hour":6.82},{"image":3,"lab":3,"remaining_time":"1d 23h 44m 17s","rush_cost":301,"estimated_initial_duration":"3d","remaining_hours":47.74,"cost_per_remaining_hour":6.31},{"image":3,"lab":4,"remaining_time":"19h 40m 23s","rush_cost":134,"estimated_initial_duration":"1d 8h","remaining_hours":19.67,"cost_per_remaining_hour":6.81},{"image":3,"lab":5,"remaining_time":"7d 17h 26m 32s","rush_cost":1081,"estimated_initial_duration":"9d","remaining_hours":185.44,"cost_per_remaining_hour":5.83}]
+[
+    {
+        "remaining_time":"23d 18h 26m 26s",
+        "rush_cost":2859,
+        "estimated_initial_duration":"30d",
+        "remaining_hours":570.44,"cost_per_remaining_hour":5.01
+    },
+    {
+        "remaining_time": "4d 6h 7m 42s",
+        "rush_cost": 617,
+        "estimated_initial_duration": "7d",
+        "remaining_hours": 102.13,
+        "cost_per_remaining_hour": 6.04
+    },
+    {
+        "remaining_time": "1d 18h 38m 25s",
+        "rush_cost": 271,
+        "estimated_initial_duration": "3d",
+        "remaining_hours": 42.64,
+        "cost_per_remaining_hour": 6.35
+    },
+    {
+        "remaining_time": "5d 8h 42m 58s",
+        "rush_cost": 772,
+        "estimated_initial_duration": "7d",
+        "remaining_hours": 128.72,
+        "cost_per_remaining_hour": 6.00
+    },
+    {
+        "remaining_time": "6d 13h 25m 6s",
+        "rush_cost": 938,
+        "estimated_initial_duration": "8d",
+        "remaining_hours": 157.42,
+        "cost_per_remaining_hour": 5.96
+    },
+    {
+        "remaining_time": "7d 0h 12m 24s",
+        "rush_cost": 1001,
+        "estimated_initial_duration": "9d",
+        "remaining_hours": 168.21,
+        "cost_per_remaining_hour": 5.95
+    },
+    {
+        "remaining_time": "13h 38m 43s",
+        "rush_cost": 93,
+        "estimated_initial_duration": "1d",
+        "remaining_hours": 13.64,
+        "cost_per_remaining_hour": 6.82
+    },
+    {
+        "remaining_time": "1d 23h 44m 17s",
+        "rush_cost": 301,
+        "estimated_initial_duration": "3d",
+        "remaining_hours": 47.74,
+        "cost_per_remaining_hour": 6.31
+    },
+    {
+        "remaining_time": "19h 40m 23s",
+        "rush_cost": 134,
+        "estimated_initial_duration": "1d 8h",
+        "remaining_hours": 19.67,
+        "cost_per_remaining_hour": 6.81
+    },
+    {
+        "remaining_time": "7d 17h 26m 32s",
+        "rush_cost": 1081,
+        "estimated_initial_duration": "9d",
+        "remaining_hours": 185.44,
+        "cost_per_remaining_hour": 5.83
+    }
+    ,
+    {
+        "remaining_time": "2d 1h 44m 23s",
+        "rush_cost": 313,
+        "estimated_initial_duration": "3d",
+        "remaining_hours": 49.74,
+        "cost_per_remaining_hour": 6.29
+    },
+    {
+        "remaining_time": "2h 37m 53s",
+        "rush_cost": 19,
+        "estimated_initial_duration": "4h",
+        "remaining_hours": 2.63,
+        "cost_per_remaining_hour": 7.22
+    },
+    {
+        "remaining_time": "1d 9h 47m 6s",
+        "rush_cost": 220,
+        "estimated_initial_duration": "3d",
+        "remaining_hours": 33.79,
+        "cost_per_remaining_hour": 6.51
+    },
+    {
+        "remaining_time": "17h 43m 46s",
+        "rush_cost": 121,
+        "estimated_initial_duration": "1d",
+        "remaining_hours": 17.73,
+        "cost_per_remaining_hour": 6.83
+    },
+    {
+        "remaining_time": "22h 56m 14s",
+        "rush_cost": 156,
+        "estimated_initial_duration": "1d",
+        "remaining_hours": 22.94,
+        "cost_per_remaining_hour": 6.80
+    },
+    {
+        "remaining_time": "18h 5m 31s",
+        "rush_cost": 123,
+        "estimated_initial_duration": "1d",
+        "remaining_hours": 18.09,
+        "cost_per_remaining_hour": 6.80
+    },
+    {
+        "remaining_time": "3d 12h 40m 52s",
+        "rush_cost": 516,
+        "estimated_initial_duration": "7d",
+        "remaining_hours": 84.68,
+        "cost_per_remaining_hour": 6.10
+    },
+    {
+        "remaining_time": "2d 2h 2m 4s",
+        "rush_cost": 314,
+        "estimated_initial_duration": "3d",
+        "remaining_hours": 50.03,
+        "cost_per_remaining_hour": 6.28
+    },
+    {
+        "remaining_time": "2d 2h 1m 2s",
+        "rush_cost": 314,
+        "estimated_initial_duration": "3d",
+        "remaining_hours": 50.02,
+        "cost_per_remaining_hour": 6.28
+    },
+    {
+        "remaining_time": "2d 12h 18m 14s",
+        "rush_cost": 374,
+        "estimated_initial_duration": "3d",
+        "remaining_hours": 60.30,
+        "cost_per_remaining_hour": 6.20
+    }
+]

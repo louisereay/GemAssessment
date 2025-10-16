@@ -1,0 +1,50 @@
+You are a concise technical data analyst. Produce a short (about 150-300 words) technical write-up
+addressed to a game analyst. Use only the numeric facts supplied; do not invent extra data.
+
+Tasks:
+1) Summarise the key findings in 3-6 sentences.
+2) Provide an explicit formula (LaTeX) for estimating the gem rush cost from initial total time T (hours)
+   and remaining time rem (hours); include numeric coefficients derived from the data.
+3) State the model confidence, main caveats, and one practical recommendation for further data collection.
+
+JSON summary of computed analysis results:
+{
+  "n_records": 20,
+  "corr_per_rem": -0.8618741930367445,
+  "corr_per_init": -0.8750602112286349,
+  "corr_rem_init": 0.9939099807320353,
+  "ln_fit": {
+    "intercept_a": 8.07968485149874,
+    "slope_b": -0.4120936011243937,
+    "r2": 0.9266267558879148,
+    "rmse": 0.1287923984051681
+  },
+  "linear_fit": {
+    "intercept": 6.657935914894149,
+    "slope": -0.0027305085254424127,
+    "r2": 0.765730373275503,
+    "rmse": 0.23013324587359166
+  },
+  "multivariate": {
+    "intercept": 6.677224366997939,
+    "beta_init": -0.004737191724226335,
+    "beta_rem": 0.002518527559754886,
+    "r2": 0.7708140337780878,
+    "rmse": 0.2276226004593126
+  },
+  "rush_vs_remaining": {
+    "slope": 5.047322362990036,
+    "intercept": 66.02939815731018,
+    "r2": 0.99451938353588,
+    "rmse": 45.76884449087706
+  },
+  "cost_model": {
+    "a": 9.900416687354836,
+    "b": -0.7384122304572663,
+    "c": -14.134251092268084,
+    "r2": 0.9998226349610907,
+    "rmse": 8.233590280086593
+  }
+}
+
+Provide the write-up as plain text. Keep it concise and factual.
